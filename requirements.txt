@@ -1,0 +1,6 @@
+pandas>=2.2.1
+matplotlib>=3.8.3
+sortedcontainers>=2.4.0
+scikit-learn>=1.6.1
+holidays>=0.64
+torch==2.7.1
